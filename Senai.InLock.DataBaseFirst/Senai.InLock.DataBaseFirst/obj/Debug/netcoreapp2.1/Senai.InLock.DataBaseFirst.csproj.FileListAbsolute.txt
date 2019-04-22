@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.deps.json
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.runtimeconfig.json
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.dll
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.RazorAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.RazorAssemblyInfo.cs
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.pdb
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.dll
+C:\Users\Daniel\Desktop\Senai.InLock.DataBaseFirst\Senai.InLock.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.pdb
